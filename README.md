@@ -1,5 +1,9 @@
 FORK: [https://gist.github.com/zhuziyi1989/3f96a73c45a87778b560e44cb551ebd2](https://gist.github.com/zhuziyi1989/3f96a73c45a87778b560e44cb551ebd2)
 # URL_Scheme
+
+### 使用快捷指令打开app去除开屏广告方法
+  创建一个快捷指令，其中包含打开应用的 URL Scheme。然后，将该快捷指令添加到主屏幕，最终可以从屏幕中删除原应用图标。这样便能快速启动应用而避免开屏广告的烦恼。
+  ![](https://imgur.com/kmUMATh)
 # 关于 URL Scheme 你知道多少？
 
 ### iOS系统中
