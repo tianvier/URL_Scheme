@@ -98,9 +98,11 @@ URL Scheme 就如同网页的url链接一样，可以打开App或跳转到相应
       (扫一扫)alipayqr://platformapi/startapp?saId=10000007
     京东 openapp.jdmobile://
     美团 imeituan://
+    美团外卖 meituanwaimai://
     大众点评 dianping://
     1号店 yhd://
     唯品会 vipshop://
+    饿了么 eleme://
 
 出行
 --
